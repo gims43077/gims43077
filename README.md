@@ -1,4 +1,4 @@
-## Hi there 👋
+# About me
 
 - 🔭 I’m currently attending Kyungpook National University.
 - 🌱 I’m currently learning AI.
